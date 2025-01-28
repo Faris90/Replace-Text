@@ -105,7 +105,7 @@ DB. support functions
 
         // ==== AB. replace rules =================================================================|
 
-        replaceRules = [
+        let replaceRules = [
             //[//i, ""], // rule template
     
             // basic examples:
