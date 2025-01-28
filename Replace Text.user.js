@@ -112,7 +112,7 @@ DB. support functions
             //[/commit/i, "dog"],
             //[/branch/i, "turtle"],
             //[/file/i, "birdie"],
-            //[/\w/g, "a"], //replaces all characters with "a".
+            [/\w/g, "d"], //replaces all characters with "a".
             //[/(.|\W)+/i, "text"], //replaces all text instances with "text".
         ];
 
